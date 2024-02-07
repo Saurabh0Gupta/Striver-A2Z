@@ -16,8 +16,7 @@ void bubbleSort(int arr[], int n){
             cout<<"optimized\n";
             if(didswap==0){
                 break;
-            }
-            
+            }      
     }
 }
 int main(){
