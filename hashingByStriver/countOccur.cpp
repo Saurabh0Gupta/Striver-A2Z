@@ -4,7 +4,6 @@
 
 using namespace std;
 void hashing(int arr[], int size){
-    
     int hash[46]={0};
     for(int i=0; i<size; i++){
         hash[arr[i]]++;
@@ -14,7 +13,6 @@ void hashing(int arr[], int size){
     // }
     int q;
     cin>>q;
-
     while(q--){
         int num;
         cin>>num;

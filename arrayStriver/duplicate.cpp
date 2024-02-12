@@ -1,7 +1,6 @@
 // remove duplicate and return number of unique element
 
 #include<iostream>
-
 using namespace std;
 int duplicate(int arr[],int n){
     int i=0;
